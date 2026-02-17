@@ -1,4 +1,4 @@
-###🚦 Traffic Rules Violation Detection System
+# 🚦 Traffic Rules Violation Detection System
 
 An AI-powered computer vision system that detects traffic rule violations in real-time using deep learning and image processing techniques. The system aims to improve road safety by automatically identifying violations such as signal jumping, helmet absence, and wrong-lane driving.
 
